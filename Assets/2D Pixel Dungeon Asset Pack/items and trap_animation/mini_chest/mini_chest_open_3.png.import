@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mini_chest_open_3.png-b04061d43188b83188ed459c96e89ebe.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/mini_chest/mini_chest_open_3.png"
+source_md5="e644f4e6e4e4ca24b2ddfe0ba9580c19"
+
+dest_files=[ "res://.import/mini_chest_open_3.png-b04061d43188b83188ed459c96e89ebe.stex" ]
+dest_md5="9e63bfbb9e89b2879e06dbdff529575c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

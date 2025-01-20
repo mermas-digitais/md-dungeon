@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mini_box_1_3.png-aa776a227869e5e072fbc4c01b9c7df3.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/mini_box_1/mini_box_1_3.png"
+source_md5="8b26fefcba1386a74dd5eefecfdd9dc3"
+
+dest_files=[ "res://.import/mini_box_1_3.png-aa776a227869e5e072fbc4c01b9c7df3.stex" ]
+dest_md5="0ba0d29b70e5dfe41dd44aaf1f3e7d04"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

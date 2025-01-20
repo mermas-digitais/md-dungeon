@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/priest1_v1_1.png-e34dd5222c3d7002fe966fd3def07119.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest1/v1/priest1_v1_1.png"
+source_md5="102013564e1b7e6afdc83988ff2eb309"
+
+dest_files=[ "res://.import/priest1_v1_1.png-e34dd5222c3d7002fe966fd3def07119.stex" ]
+dest_md5="f728337e59a939a9d280faf60210dcbb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

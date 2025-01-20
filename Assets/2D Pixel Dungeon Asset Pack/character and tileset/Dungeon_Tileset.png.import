@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Dungeon_Tileset.png-2b4d86afaa7ea7fefc9c4ba27699a960.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/character and tileset/Dungeon_Tileset.png"
+source_md5="de8da6d06c44e17a8360dd2a18e0e847"
+
+dest_files=[ "res://.import/Dungeon_Tileset.png-2b4d86afaa7ea7fefc9c4ba27699a960.stex" ]
+dest_md5="b719c646298dcd8e72b9936973951e5a"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

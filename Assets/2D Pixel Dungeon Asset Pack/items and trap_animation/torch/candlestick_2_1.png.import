@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/candlestick_2_1.png-33e2cbdf98fd4e49bb193a987a4eadf7.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/torch/candlestick_2_1.png"
+source_md5="effe9997012b67d0512b187bb05f75ea"
+
+dest_files=[ "res://.import/candlestick_2_1.png-33e2cbdf98fd4e49bb193a987a4eadf7.stex" ]
+dest_md5="13dbe5e64edf82d0d3067f900dca6ba9"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

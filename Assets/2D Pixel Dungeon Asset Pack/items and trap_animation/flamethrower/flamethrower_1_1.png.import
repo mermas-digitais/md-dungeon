@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flamethrower_1_1.png-17209cc7e54836c0f8b3834a5ce20fb2.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_1_1.png"
+source_md5="af9b52d70d8b31552caa9bfd9ef5944b"
+
+dest_files=[ "res://.import/flamethrower_1_1.png-17209cc7e54836c0f8b3834a5ce20fb2.stex" ]
+dest_md5="484bd445016ee799d5bbf1c35422a8d3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

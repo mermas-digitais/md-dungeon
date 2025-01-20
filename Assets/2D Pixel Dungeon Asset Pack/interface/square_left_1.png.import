@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/square_left_1.png-6e4fdfa500fd74ceefa03835b2335924.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/interface/square_left_1.png"
+source_md5="5e7459f28b0b9276a0fd428c5af26cab"
+
+dest_files=[ "res://.import/square_left_1.png-6e4fdfa500fd74ceefa03835b2335924.stex" ]
+dest_md5="9d37bdf413d82df83a201c8e3218afb1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

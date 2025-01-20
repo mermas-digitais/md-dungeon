@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flasks_4_4.png-e2f363b027843b65f9b767e619b693df.stex"
+
+[deps]
+
+source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_4.png"
+source_md5="d5fc9645b714378d505d594e0a209f30"
+
+dest_files=[ "res://.import/flasks_4_4.png-e2f363b027843b65f9b767e619b693df.stex" ]
+dest_md5="6501c5067f874cec6ddc1d51cdd209cf"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
