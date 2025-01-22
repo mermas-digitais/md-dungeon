@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/skeleton2_v2_4.png-e1b308d3c6039dfa43ba5a46c9bb268c.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skeleton2/v2/skeleton2_v2_4.png"
-source_md5="39a4063bd8275dae8ccec7191688eab9"
-
 dest_files=[ "res://.import/skeleton2_v2_4.png-e1b308d3c6039dfa43ba5a46c9bb268c.stex" ]
-dest_md5="b14c6f9e6f64de83088932779212a06c"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

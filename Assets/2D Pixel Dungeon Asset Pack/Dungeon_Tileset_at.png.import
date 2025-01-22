@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/Dungeon_Tileset_at.png-cae5e17d0a6675b11c3db1cfc411fc26.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/Dungeon_Tileset_at.png"
-source_md5="f4aa1a51bffa9dfb73603dc1d02fc5a1"
-
 dest_files=[ "res://.import/Dungeon_Tileset_at.png-cae5e17d0a6675b11c3db1cfc411fc26.stex" ]
-dest_md5="baf5b328f3c40175edb68408c2c893aa"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

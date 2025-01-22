@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/candlestick_1_3.png-1747d330b3fdd230ceb920138e20b1e9.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/torch/candlestick_1_3.png"
-source_md5="5dbe2de959c9d9935d0ca7e48b483ad4"
-
 dest_files=[ "res://.import/candlestick_1_3.png-1747d330b3fdd230ceb920138e20b1e9.stex" ]
-dest_md5="a44631bbfdbfec4136664fdd299df19a"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

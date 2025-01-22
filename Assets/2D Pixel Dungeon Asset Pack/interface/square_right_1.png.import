@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/square_right_1.png-63732d1a2b93d06f1c29674cee854de9.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/interface/square_right_1.png"
-source_md5="0342ccd5c55ca3affa98368e0ce38e99"
-
 dest_files=[ "res://.import/square_right_1.png-63732d1a2b93d06f1c29674cee854de9.stex" ]
-dest_md5="929a0c92825c876c2db8272b20e708ff"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

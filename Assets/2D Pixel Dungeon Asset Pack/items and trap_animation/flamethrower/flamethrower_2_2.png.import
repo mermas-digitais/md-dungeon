@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/flamethrower_2_2.png-6c96d755345e8b76a07c5253b64fb67f.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/flamethrower/flamethrower_2_2.png"
-source_md5="b365b353ee84004020fe02e6f5a1b93d"
-
 dest_files=[ "res://.import/flamethrower_2_2.png-6c96d755345e8b76a07c5253b64fb67f.stex" ]
-dest_md5="4bd4b09cd07735ea08a2619e0ea9f0dc"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

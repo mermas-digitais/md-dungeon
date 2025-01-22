@@ -1,11 +1,9 @@
 [gd_resource type="Animation" format=2]
 
 [resource]
-
 resource_name = "Attack_right"
 length = 0.8
 loop = true
-step = 0.1
 tracks/0/type = "value"
 tracks/0/path = NodePath("Sprite:frame")
 tracks/0/interp = 1
@@ -54,4 +52,15 @@ tracks/3/keys = {
 "update": 1,
 "values": [ false ]
 }
-
+tracks/4/type = "value"
+tracks/4/path = NodePath("hitbox/CollisionShape2D2:disabled")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/keys = {
+"times": PoolRealArray( 0, 0.1, 0.3 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 1,
+"values": [ true, false, true ]
+}

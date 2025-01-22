@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/chest_open_3.png-753a777a948e2b543621b7eb70bb4570.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/chest/chest_open_3.png"
-source_md5="f490a9ac8230d295af5e06bc6f2d8e7a"
-
 dest_files=[ "res://.import/chest_open_3.png-753a777a948e2b543621b7eb70bb4570.stex" ]
-dest_md5="0b895e4ec83f8f9aed4dd76d152602c3"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
