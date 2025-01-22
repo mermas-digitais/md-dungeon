@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/coin_3.png-1301e0c984794a7fc5cb097bef92a884.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/coin/coin_3.png"
-source_md5="58f7f208c1b2ca2533b0f8851dc43757"
-
 dest_files=[ "res://.import/coin_3.png-1301e0c984794a7fc5cb097bef92a884.stex" ]
-dest_md5="e040435685bbc04da9ac2338aa4dfa46"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

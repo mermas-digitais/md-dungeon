@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/flasks_4_1.png-bb2b68329d656339a683f1bcfa04de86.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/flasks/flasks_4_1.png"
-source_md5="896bfd7dae12a520c82e8bfd6302a2e0"
-
 dest_files=[ "res://.import/flasks_4_1.png-bb2b68329d656339a683f1bcfa04de86.stex" ]
-dest_md5="a8fa9e8fb942e6794933f79578d11734"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

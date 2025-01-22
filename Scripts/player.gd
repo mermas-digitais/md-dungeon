@@ -12,7 +12,7 @@ var facing_direction = "right"
 
 var max_health = 3
 var current_health = max_health
-
+ 
 func _ready():
     if animation_player:
         animation_player.play("Idle_" + facing_direction)
@@ -73,6 +73,7 @@ func take_damage(damage):
 
 func die():
     print("Jogador morreu!")
+#	get_tree().change_scene("res://Scenes/Home.tscn")
     queue_free()  
 
 func heal(amount):

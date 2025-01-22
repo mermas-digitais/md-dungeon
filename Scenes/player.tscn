@@ -13,45 +13,28 @@
 [ext_resource path="res://Assets/Animations/Player/Walk_right.tres" type="Animation" id=11]
 
 [sub_resource type="CapsuleShape2D" id=1]
-
-custom_solver_bias = 0.0
 radius = 4.84395
 height = 14.0162
 
-[node name="KinematicBody2D" type="KinematicBody2D"]
-
+[node name="Player" type="KinematicBody2D"]
 position = Vector2( 0, -15.2095 )
-input_pickable = false
-collision_layer = 1
-collision_mask = 1
-collision/safe_margin = 0.08
 
-[node name="Sprite" type="Sprite" parent="." index="0"]
-
+[node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 1 )
 offset = Vector2( -5, 0 )
 flip_h = true
-vframes = 7
 hframes = 9
+vframes = 7
 frame = 45
 region_rect = Rect2( 0, 0, 32, 32 )
-_sections_unfolded = [ "Animation", "Offset", "Region", "Transform" ]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." index="1"]
-
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( -2.46225, 13.2007 )
 rotation = 1.5708
 scale = Vector2( 0.496417, 0.500083 )
 shape = SubResource( 1 )
-_sections_unfolded = [ "Transform", "Visibility" ]
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="." index="2"]
-
-root_node = NodePath("..")
-autoplay = ""
-playback_process_mode = 1
-playback_default_blend_time = 0.0
-playback_speed = 1.0
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 anims/Attack_left = ExtResource( 2 )
 anims/Attack_right = ExtResource( 3 )
 anims/Damage_left = ExtResource( 4 )
@@ -62,14 +45,11 @@ anims/Idle_left = ExtResource( 8 )
 anims/Idle_right = ExtResource( 9 )
 anims/Walk_left = ExtResource( 10 )
 anims/Walk_right = ExtResource( 11 )
-blend_times = [  ]
-_sections_unfolded = [ "Playback Options" ]
 
-[node name="Timer" type="Timer" parent="." index="3"]
-
-process_mode = 1
-wait_time = 1.0
+[node name="Timer" type="Timer" parent="."]
 one_shot = true
-autostart = false
 
+[node name="Body" type="Position2D" parent="."]
 
+[node name="Key" type="Position2D" parent="Body"]
+position = Vector2( 0, -14.7905 )

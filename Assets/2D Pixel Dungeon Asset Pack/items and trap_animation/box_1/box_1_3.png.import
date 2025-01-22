@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/box_1_3.png-8feaea51d4e7733b57184e47195c83c9.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/items and trap_animation/box_1/box_1_3.png"
-source_md5="baef334a2b4e19ee9c8d662d3140e336"
-
 dest_files=[ "res://.import/box_1_3.png-8feaea51d4e7733b57184e47195c83c9.stex" ]
-dest_md5="e49826ee5ab9a303f5e29bfbf2251fda"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

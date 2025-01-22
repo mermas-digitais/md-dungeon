@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/priest2_v1_3.png-acbe8cfc10304ecc3a80f3219d6b497e.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://Assets/2D Pixel Dungeon Asset Pack/Character_animation/priests_idle/priest2/v1/priest2_v1_3.png"
-source_md5="0ab60f013fe9ddff320ff3b3489a26dc"
-
 dest_files=[ "res://.import/priest2_v1_3.png-acbe8cfc10304ecc3a80f3219d6b497e.stex" ]
-dest_md5="398eff6a037fc10c19088f4fb9801e48"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
